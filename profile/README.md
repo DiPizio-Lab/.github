@@ -20,10 +20,6 @@ Here are some of the projects currently underway in our lab:
 - **Website:** 
 - **Twitter:** 
 
-## License
-
-The code in this repository is licensed under the [MIT License](LICENSE). Please refer to the specific project repositories for more detailed licensing information.
-
 ## Acknowledgements
 
 
